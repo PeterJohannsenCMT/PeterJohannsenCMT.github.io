@@ -1,3 +1,5 @@
 <root>
-	<jcentry Moderator="Apple" Image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Apple_logo_hollow.svg/110px-Apple_logo_hollow.svg.png||www.apple.com"/>
+	<jcentry Moderator="Apple" Image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Apple_logo_hollow.svg/110px-Apple_logo_hollow.svg.png||www.apple.com" Interests = "Expensive, slick, efficient"/>
+	<jcentry Moderator="Microsoft" Image="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg||www.microsoft.com" Interests = "Clunky, workhorse"/>
+	<jcentry Moderator="Samsung" Image="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg||www.samsung.com" Interests = "tvs, stuff"/>
 </root>
