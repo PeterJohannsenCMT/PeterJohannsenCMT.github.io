@@ -1,47 +1,4 @@
 <root>
-<car Make="BMW" Displacement="1.6" HP="116" Year="2003"/>
-<car Make="Audi" Displacement="3.5" HP="298" Year="2003"/>
-<car Make="BMW" Displacement="3.0" HP="200" Year="2011"/>
-<car Make="Mercedes" Displacement="2.0" HP="257" Year="2002"/>
-<car Make="Renault" Displacement="2.5" HP="278" Year="2002"/>
-<car Make="Renault" Displacement="3.0" HP="224" Year="2009"/>
-<car Make="Kia" Displacement="1.8" HP="172" Year="2007"/>
-<car Make="Mercedes" Displacement="2.8" HP="186" Year="2001"/>
-<car Make="Skoda" Displacement="1.6" HP="179" Year="2006"/>
-<car Make="Seat" Displacement="1.8" HP="207" Year="2013"/>
-<car Make="Audi" Displacement="3.0" HP="246" Year="2008"/>
-<car Make="Volkswagen" Displacement="1.8" HP="244" Year="1999"/>
-<car Make="Seat" Displacement="1.5" HP="167" Year="2000"/>
-<car Make="Fiat" Displacement="1.5" HP="209" Year="2010"/>
-<car Make="Mercedes" Displacement="1.8" HP="131" Year="2004"/>
-<car Make="Fiat" Displacement="3.5" HP="262" Year="2002"/>
-<car Make="Audi" Displacement="2.0" HP="175" Year="1999"/>
-<car Make="Skoda" Displacement="3.5" HP="272" Year="2014"/>
-<car Make="Hyundai" Displacement="1.6" HP="235" Year="2003"/>
-<car Make="Renault" Displacement="1.8" HP="136" Year="2000"/>
-<car Make="Seat" Displacement="2.0" HP="108" Year="2001"/>
-<car Make="Skoda" Displacement="2.8" HP="112" Year="2008"/>
-<car Make="Renault" Displacement="2.8" HP="194" Year="2001"/>
-<car Make="Renault" Displacement="3.0" HP="153" Year="2011"/>
-<car Make="Hyundai" Displacement="1.8" HP="209" Year="2005"/>
-<car Make="BMW" Displacement="1.8" HP="283" Year="2005"/>
-<car Make="BMW" Displacement="3.0" HP="214" Year="2003"/>
-<car Make="Seat" Displacement="3.5" HP="295" Year="2008"/>
-<car Make="Audi" Displacement="3.5" HP="298" Year="2009"/>
-<car Make="Mercedes" Displacement="2.0" HP="283" Year="2001"/>
-<car Make="Audi" Displacement="3.0" HP="167" Year="2010"/>
-<car Make="BMW" Displacement="3.5" HP="197" Year="2002"/>
-<car Make="Audi" Displacement="1.5" HP="169" Year="2012"/>
-<car Make="Fiat" Displacement="1.8" HP="142" Year="2004"/>
-<car Make="Mercedes" Displacement="3.5" HP="271" Year="2012"/>
-<car Make="Seat" Displacement="2.8" HP="193" Year="2001"/>
-<car Make="Mercedes" Displacement="3.5" HP="220" Year="2002"/>
-<car Make="Kia" Displacement="2.8" HP="260" Year="2000"/>
-<car Make="Volkswagen" Displacement="1.6" HP="208" Year="2009"/>
-<car Make="Seat" Displacement="2.8" HP="111" Year="1999"/>
-<car Make="Seat" Displacement="2.0" HP="122" Year="2000"/>
-<car Make="Hyundai" Displacement="3.0" HP="293" Year="2003"/>
-<car Make="Audi" Displacement="2.8" HP="185" Year="2004"/>
-<car Make="Mercedes" Displacement="1.5" HP="214" Year="2002"/>
-<car Make="Audi" Displacement="2.0" HP="208" Year="2007"/>
+<jcentry Date="02/21/2022" Moderator="Francesca" Deadline="02/16/2022"/>
+<jcentry Date="03/14/2022" Moderator="Sune" Deadline="03/09/2022"/>
 </root>
